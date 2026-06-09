@@ -1,4 +1,4 @@
-Name,Email,Company,Subject,Body,Status,DraftId,SentAt
+Name,Email,Company,Subject,Body,Status,DraftId,SentAt,FollowUpSubject,FollowUpBody
 Alexander Baksheev,alexander@onside.io,Mappable (Yango Maps),TrafficCure and the Yango Maps roadmap,"Dear Alexander,
 
 I am reaching out from Lepton Software, India's oldest and largest Google Maps partner. We build TrafficCure, a city-wide road traffic intelligence product built directly on Google's Road Management Insights layer. We are one of only two companies globally on this layer, and Google hosts our live demo on their own RMI website.
@@ -11,7 +11,17 @@ Would you be open to a short call to explore how this could fit into the Yango M
 
 Warm regards,
 Umang Saraf
-Director, Lepton Software",,,
+Director, Lepton Software",,,,Re: TrafficCure and the Yango Maps roadmap,"Dear Alexander,
+
+I wanted to follow up on my earlier note about TrafficCure. I know a message like mine can easily get buried, so I will keep this short.
+
+Since you are shaping the Yango Maps stack across the region, the part worth a second look is the data layer underneath it. As one of only two companies in the world building on Google's Road Management Insights layer, with our live demo hosted on Google's own RMI site, we can give you live, network-wide traffic intelligence at 100 percent city-wide coverage and no hardware. In Abu Dhabi we have already proven this inside a single unified dashboard alongside existing camera feeds.
+
+You own the platform and the customers, we simply supply the traffic intelligence beneath it. If it helps, I am happy to send the live demo link or find fifteen minutes that suit you.
+
+Warm regards,
+Umang Saraf
+Director, Lepton Software"
 Roman Karlash,rkarlash@yango.com,Mappable (Yango Maps),Live traffic intelligence for Yango Ride,"Dear Roman,
 
 I am reaching out from Lepton Software, India's oldest and largest Google Maps partner. We build TrafficCure, a city-wide road traffic intelligence product built directly on Google's Road Management Insights layer. We are one of only two companies globally on this layer, and Google hosts our live demo on their own RMI website.
@@ -24,7 +34,17 @@ Would you be open to a short call to explore it?
 
 Warm regards,
 Umang Saraf
-Director, Lepton Software",,,
+Director, Lepton Software",,,,Re: Live traffic intelligence for Yango Ride,"Dear Roman,
+
+I am following up on my earlier note about TrafficCure, in case it slipped past a busy inbox.
+
+For Yango Ride, road conditions shape ETAs, driver efficiency and rider experience every day, and that is exactly where we can help. Lepton is India's oldest and largest Google Maps partner, and TrafficCure is one of only two products in the world built on Google's RMI layer. It gives a live, network-wide traffic picture across the whole city with no hardware, the kind of intelligence that is hard to build in-house. We have it running today in Abu Dhabi inside one unified dashboard.
+
+You run the mobility service, we provide the traffic layer beneath it. Would a short call in the next week or two be worth it? I am also happy to share the live demo first.
+
+Warm regards,
+Umang Saraf
+Director, Lepton Software"
 Alexey Zaytsev,alexeyzaytsev@yandex-team.ru,Mappable (Yango Maps),A data layer partnership for Mappable,"Dear Alexey,
 
 I am reaching out from Lepton Software, India's oldest and largest Google Maps partner. We build TrafficCure, a city-wide road traffic intelligence product built directly on Google's Road Management Insights layer. We are one of only two companies globally on this layer, and Google hosts our live demo on their own RMI website.
@@ -37,7 +57,17 @@ Would you be open to a short call to explore a partnership?
 
 Warm regards,
 Umang Saraf
-Director, Lepton Software",,,
+Director, Lepton Software",,,,Re: A data layer partnership for Mappable,"Dear Alexey,
+
+I wanted to circle back on my earlier note about a possible data-layer partnership with Mappable.
+
+As you build out partnerships, a live traffic intelligence layer is one of the few pieces that is genuinely hard to assemble from scratch. Lepton is India's oldest and largest Google Maps partner, and TrafficCure is one of only two products globally on Google's RMI layer, with our demo hosted on Google's own RMI site. It delivers 100 percent city-wide coverage with no hardware, a layer you can bring straight into your partner conversations. Our Abu Dhabi deployment shows it working in a single unified dashboard.
+
+You own the platform and the relationships, we supply the traffic intelligence. Would you be open to a short call, or shall I send the live demo link first?
+
+Warm regards,
+Umang Saraf
+Director, Lepton Software"
 Osama Ghoul,osama.ghoul@devoteam.com,Devoteam Middle East,A mobility vertical for your Google Cloud smart city deals,"Dear Osama,
 
 I am reaching out from Lepton Software, India's oldest and largest Google Maps partner. We build TrafficCure, a city-wide road traffic intelligence product built directly on Google's Road Management Insights layer in BigQuery. We are one of only two companies globally on this layer, and Google hosts our live demo on their own RMI website.
@@ -50,7 +80,17 @@ Would you have time for a short call in the coming days?
 
 Warm regards,
 Umang Saraf
-Director, Lepton Software",,,
+Director, Lepton Software",,,,Re: A mobility vertical for your Google Cloud smart city deals,"Dear Osama,
+
+I am following up on my earlier note about adding a mobility vertical to Devoteam's Google Cloud smart city work.
+
+Given Devoteam's standing as Google Cloud's EMEA partner of choice, the co-sell I proposed is a low-friction one. Lepton is India's oldest and largest Google Maps partner, and TrafficCure is one of only two applications in the world built natively on Google's RMI layer in BigQuery, so it sits inside the GCP environment your teams already run. You carry it into your Vision 2030 smart city tenders as the traffic intelligence module, and we support every deal technically. Because Google feeds leads to RMI partners, the introductions tend to be warm.
+
+Would a short call in the coming days work? I can also send our live demo on Google's RMI site.
+
+Warm regards,
+Umang Saraf
+Director, Lepton Software"
 Ra'afat Sindi,raafat.sindi@cntxt.com,CNTXT,A mobility vertical to attach to your GCP deals,"Dear Ra'afat,
 
 I am reaching out from Lepton Software, India's oldest and largest Google Maps partner. We build TrafficCure, a city-wide road traffic intelligence product built directly on Google's Road Management Insights layer in BigQuery. We are one of only two companies globally on this layer, and Google hosts our live demo on their own RMI website.
@@ -63,7 +103,17 @@ Would you be open to a short introductory call?
 
 Warm regards,
 Umang Saraf
-Director, Lepton Software",,,
+Director, Lepton Software",,,,Re: A mobility vertical to attach to your GCP deals,"Dear Ra'afat,
+
+I wanted to follow up on my earlier note about attaching a mobility vertical to CNTXT's Google Cloud deals.
+
+As CRO, the revenue case is the heart of it. TrafficCure is a BigQuery and RMI native application, one of only two in the world on Google's RMI layer, built by India's oldest and largest Google Maps partner. It bundles cleanly into your Vision 2030 smart city proposals, and with Sovereign Controls by CNTXT the data residency story is already solved on your side. We bring the product and the Google relationship, you bring the channel into KSA government.
+
+Would you be open to a short introductory call? I am happy to share the live demo on Google's own RMI site first.
+
+Warm regards,
+Umang Saraf
+Director, Lepton Software"
 Abdullah Jarwan,abdullah.jarwan@cntxt.com,CNTXT,TrafficCure as a BigQuery native app for your GCP deals,"Dear Abdullah,
 
 I am reaching out from Lepton Software, India's oldest and largest Google Maps partner. We build TrafficCure, a city-wide road traffic intelligence product built directly on Google's Road Management Insights layer in BigQuery. We are one of only two companies globally on this layer, and Google hosts our live demo on their own RMI website.
@@ -76,7 +126,17 @@ Would you be open to a short introductory call?
 
 Warm regards,
 Umang Saraf
-Director, Lepton Software",,,
+Director, Lepton Software",,,,Re: TrafficCure as a BigQuery native app for your GCP deals,"Dear Abdullah,
+
+A short follow-up to my earlier note about bundling TrafficCure into CNTXT's GCP smart city proposals.
+
+As the sole Google Cloud distributor in Saudi Arabia, CNTXT sits at the gateway of every GCP smart city project tied to Vision 2030, and mobility is the one vertical missing from the portfolio. TrafficCure is a BigQuery and RMI native application, one of only two globally on Google's RMI layer, from India's oldest and largest Google Maps partner. Your technical teams will recognise it immediately, and Sovereign Controls by CNTXT already handles data residency for government deals.
+
+We bring the product and the Google relationship, you bring the channel. Would a short call be worth it? I can send the live demo link as well.
+
+Warm regards,
+Umang Saraf
+Director, Lepton Software"
 Ibrahim Alomari,ibrahim@cntxt.com,CNTXT,A BigQuery native mobility app for CNTXT,"Dear Ibrahim,
 
 I am reaching out from Lepton Software, India's oldest and largest Google Maps partner. We build TrafficCure, a city-wide road traffic intelligence product built directly on Google's Road Management Insights layer in BigQuery. We are one of only two companies globally on this layer, and Google hosts our live demo on their own RMI website.
@@ -89,7 +149,17 @@ Would you be open to a short call to explore it?
 
 Warm regards,
 Umang Saraf
-Director, Lepton Software",,,
+Director, Lepton Software",,,,Re: A BigQuery native mobility app for CNTXT,"Dear Ibrahim,
+
+I am following up on my earlier note about a BigQuery native mobility app for CNTXT.
+
+On the delivery side, the appeal is that there is nothing new to operate. TrafficCure is built natively on Google's RMI layer in BigQuery, so it sits directly inside the GCP environment your teams already run, adding a mobility vertical with no new infrastructure. Lepton is India's oldest and largest Google Maps partner and one of only two companies in the world on this layer. With Sovereign Controls by CNTXT handling data residency, it bundles cleanly into your Vision 2030 deals.
+
+We bring the product and the Google relationship, you bring the KSA channel. Would you be open to a short call, or shall I send the live demo first?
+
+Warm regards,
+Umang Saraf
+Director, Lepton Software"
 Damien Duhamel,damien.duhamel@eurogroupconsulting.com,Eurogroup Consulting,The data product behind your transport advisory work,"Dear Damien,
 
 I am reaching out from Lepton Software, India's oldest and largest Google Maps partner. We build TrafficCure, a city-wide road traffic intelligence product built directly on Google's Road Management Insights layer. We are one of only two companies globally on this layer, and Google hosts our live demo on their own RMI website.
@@ -102,7 +172,17 @@ Would you be open to a short call to explore it?
 
 Warm regards,
 Umang Saraf
-Director, Lepton Software",,,
+Director, Lepton Software",,,,Re: The data product behind your transport advisory work,"Dear Damien,
+
+I wanted to follow up on my earlier note about pairing Eurogroup's transport advisory with a data product.
+
+Your team advises Saudi transport authorities on ITS, connected vehicles and big data analytics, which is the exact territory TrafficCure was built for. Because you work consulting-led with no proprietary data product, there is no overlap, only a fit. Lepton is India's oldest and largest Google Maps partner, and TrafficCure is one of only two products globally on Google's RMI layer, proven in Abu Dhabi. When a conversation turns to a network-wide traffic data layer, it is the product you can recommend and deliver with us behind it.
+
+No channel conflict, fully complementary. Would a short call be worth your time? I can share the live demo first.
+
+Warm regards,
+Umang Saraf
+Director, Lepton Software"
 Grégoire Virat,gregoire.virat@eurogroupconsulting.fr,Eurogroup Consulting,The data product behind your transport advisory work,"Dear Grégoire,
 
 I am reaching out from Lepton Software, India's oldest and largest Google Maps partner. We build TrafficCure, a city-wide road traffic intelligence product built directly on Google's Road Management Insights layer. We are one of only two companies globally on this layer, and Google hosts our live demo on their own RMI website.
@@ -115,7 +195,17 @@ Would you be open to a short call to explore it?
 
 Warm regards,
 Umang Saraf
-Director, Lepton Software",,,
+Director, Lepton Software",,,,Re: The data product behind your transport advisory work,"Dear Gregoire,
+
+A short follow-up to my earlier note about a vendor partnership with Eurogroup.
+
+Eurogroup advises transport authorities across the Middle East on ITS, connected vehicles and big data analytics, precisely where TrafficCure fits. With a consulting-led model and no proprietary data product, we are complementary rather than competitive. Lepton is India's oldest and largest Google Maps partner, and TrafficCure is one of only two products in the world on Google's RMI layer, already running in Abu Dhabi. You keep advising as you do today, and recommend TrafficCure with us behind it when the data layer comes up.
+
+Would you be open to a short call to explore it? I am glad to send the live demo on Google's RMI site.
+
+Warm regards,
+Umang Saraf
+Director, Lepton Software"
 Mickael Feige,mickael.feige@gmail.com,Eurogroup Consulting,Pairing your transport advisory with a data product,"Dear Mickael,
 
 I am reaching out from Lepton Software, India's oldest and largest Google Maps partner. We build TrafficCure, a city-wide road traffic intelligence product built directly on Google's Road Management Insights layer. We are one of only two companies globally on this layer, and Google hosts our live demo on their own RMI website.
@@ -128,7 +218,17 @@ Would you be open to a short call to explore it?
 
 Warm regards,
 Umang Saraf
-Director, Lepton Software",,,
+Director, Lepton Software",,,,Re: Pairing your transport advisory with a data product,"Dear Mickael,
+
+I wanted to circle back on my earlier note about pairing your transport advisory with a data product.
+
+Across the Middle East and Asia you advise authorities on the exact problems TrafficCure solves, ITS, connected vehicles and big data analytics. Since Eurogroup is consulting-led with no proprietary data product, we are complementary, not competitive. Lepton is India's oldest and largest Google Maps partner, and TrafficCure is one of only two products globally on Google's RMI layer, proven in Abu Dhabi inside a unified dashboard. You advise as you do today, and bring TrafficCure in when the conversation turns to a network-wide data layer.
+
+Would a short call work? I can send the live demo first.
+
+Warm regards,
+Umang Saraf
+Director, Lepton Software"
 Matthieu Prieuret,matthieu.prieuret@eurogroupconsulting.com,Eurogroup Consulting,A data product for Eurogroup's transport advisory,"Dear Matthieu,
 
 I am reaching out from Lepton Software, India's oldest and largest Google Maps partner. We build TrafficCure, a city-wide road traffic intelligence product built directly on Google's Road Management Insights layer. We are one of only two companies globally on this layer, and Google hosts our live demo on their own RMI website.
@@ -141,7 +241,17 @@ Would you be open to a short call to explore it, or to point me to the right col
 
 Warm regards,
 Umang Saraf
-Director, Lepton Software",,,
+Director, Lepton Software",,,,Re: A data product for Eurogroup's transport advisory,"Dear Matthieu,
+
+I am following up on my earlier note about a data product for Eurogroup's transport advisory.
+
+Although you lead the UK practice, Eurogroup's transport work in the Middle East and Asia is where TrafficCure fits, ITS, connected vehicles and big data analytics for transport authorities. As a consulting-led firm with no proprietary data product, there is no overlap, only a fit. Lepton is India's oldest and largest Google Maps partner, and TrafficCure is one of only two products in the world on Google's RMI layer, proven in Abu Dhabi.
+
+Would you be open to a short call, or could you point me to the right colleague in the region? I am happy to send the live demo either way.
+
+Warm regards,
+Umang Saraf
+Director, Lepton Software"
 Mohammed Sharara,moh_a_sharara@yahoo.com,Khatib & Alami,A data layer for your Smart City and Safe City bids,"Dear Mohammed,
 
 I am reaching out from Lepton Software, India's oldest and largest Google Maps partner. We build TrafficCure, a city-wide road traffic intelligence product built directly on Google's Road Management Insights layer. We are one of only two companies globally on this layer, and Google hosts our live demo on their own RMI website.
@@ -154,7 +264,17 @@ Would you be open to a short call to explore a joint approach?
 
 Warm regards,
 Umang Saraf
-Director, Lepton Software",,,
+Director, Lepton Software",,,,Re: A data layer for your Smart City and Safe City bids,"Dear Mohammed,
+
+I wanted to follow up on my earlier note about co-selling on Smart City and Safe City bids.
+
+Leading geospatial systems integration, you know how much a ready-made traffic intelligence layer adds on top of the GIS work Khatib & Alami delivers. TrafficCure gives 100 percent city-wide road coverage with no hardware, built on Google's RMI layer by India's oldest and largest Google Maps partner, one of only two companies in the world on that layer. You bring the government access and engineering delivery, we supply the data layer, exactly as we have proven in Abu Dhabi.
+
+Would you be open to a short call to explore a joint approach? I can send the live demo on Google's RMI site first.
+
+Warm regards,
+Umang Saraf
+Director, Lepton Software"
 Billy Hughes,billy.hughes@khatibalami.com,Khatib & Alami,A traffic data layer for your UAE smart city work,"Dear Billy,
 
 I am reaching out from Lepton Software, India's oldest and largest Google Maps partner. We build TrafficCure, a city-wide road traffic intelligence product built directly on Google's Road Management Insights layer. We are one of only two companies globally on this layer, and Google hosts our live demo on their own RMI website.
@@ -167,7 +287,17 @@ Would you be open to a short call to explore a joint approach?
 
 Warm regards,
 Umang Saraf
-Director, Lepton Software",,,
+Director, Lepton Software",,,,Re: A traffic data layer for your UAE smart city work,"Dear Billy,
+
+A short follow-up to my earlier note about a traffic data layer for your UAE smart city work.
+
+Leading the Dubai geography business unit, you are close to the smart city and transport projects where a live traffic layer makes a real difference. TrafficCure adds 100 percent city-wide road coverage on top of your GIS delivery with no hardware, built on Google's RMI layer by India's oldest and largest Google Maps partner. We are one of only two companies in the world on that layer, and our Abu Dhabi reference shows it inside a single unified dashboard.
+
+You bring the access and delivery, we supply the data layer. Would a short call be worth it? Happy to share the live demo first.
+
+Warm regards,
+Umang Saraf
+Director, Lepton Software"
 Mounia Bedran,mounia.bedran@khatibalami.com,Khatib & Alami,A traffic intelligence layer for your digital services,"Dear Mounia,
 
 I am reaching out from Lepton Software, India's oldest and largest Google Maps partner. We build TrafficCure, a city-wide road traffic intelligence product built directly on Google's Road Management Insights layer. We are one of only two companies globally on this layer, and Google hosts our live demo on their own RMI website.
@@ -180,7 +310,17 @@ Would you be open to a short call to explore a joint approach?
 
 Warm regards,
 Umang Saraf
-Director, Lepton Software",,,
+Director, Lepton Software",,,,Re: A traffic intelligence layer for your digital services,"Dear Mounia,
+
+I am following up on my earlier note about a traffic intelligence layer for your digital services.
+
+Running the digital services center of excellence, you are exactly where TrafficCure fits, a cloud-native, RMI-based traffic intelligence layer that adds to the digital solutions Khatib & Alami brings to government clients. It delivers 100 percent city-wide coverage with no hardware, built by India's oldest and largest Google Maps partner, one of only two companies in the world on Google's RMI layer. We co-sell on Smart City and Safe City bids, you bring the delivery and access, we bring the data layer.
+
+Would you be open to a short call to explore it? I can send the live demo on Google's RMI site.
+
+Warm regards,
+Umang Saraf
+Director, Lepton Software"
 Said Kiwan,skiwan@mvp.ae,Convergint MEA,Completing your ITCC dashboards with city-wide coverage,"Dear Said,
 
 I am reaching out from Lepton Software, India's oldest and largest Google Maps partner. We build TrafficCure, a city-wide road traffic intelligence product built directly on Google's Road Management Insights layer. We are one of only two companies globally on this layer, and Google hosts our live demo on their own RMI website.
@@ -193,7 +333,17 @@ Would you be open to a short call to explore a joint proposal?
 
 Warm regards,
 Umang Saraf
-Director, Lepton Software",,,
+Director, Lepton Software",,,,Re: Completing your ITCC dashboards with city-wide coverage,"Dear Said,
+
+I wanted to follow up on my earlier note about completing your ITCC dashboards with city-wide coverage.
+
+The honest limit of any camera-based system is coverage, cameras typically see 50 to 100 km of a 1,000 km network. TrafficCure fills that gap with 100 percent road-segment analytics and no extra hardware, built on Google's RMI layer by India's oldest and largest Google Maps partner. We are one of only two companies in the world on that layer, and in Abu Dhabi we already feed exactly this kind of dashboard. We are not a competitor but the data enrichment layer beneath your ITCC and ANPR.
+
+Would you be open to a short call to explore a joint proposal? I can share the live demo first.
+
+Warm regards,
+Umang Saraf
+Director, Lepton Software"
 Saif Al Shahrani,s.shahrani@convergint.com,Convergint MEA,Closing the camera coverage gap on Vision 2030 projects,"Dear Saif,
 
 I am reaching out from Lepton Software, India's oldest and largest Google Maps partner. We build TrafficCure, a city-wide road traffic intelligence product built directly on Google's Road Management Insights layer. We are one of only two companies globally on this layer, and Google hosts our live demo on their own RMI website.
@@ -206,7 +356,17 @@ Would you be open to a short call to explore a joint proposal?
 
 Warm regards,
 Umang Saraf
-Director, Lepton Software",,,
+Director, Lepton Software",,,,Re: Closing the camera coverage gap on Vision 2030 projects,"Dear Saif,
+
+A short follow-up to my earlier note about closing the camera coverage gap on Vision 2030 projects.
+
+You know the coverage limits of camera-based systems well, typically 50 to 100 km of a 1,000 km network. TrafficCure closes that gap with 100 percent road-segment analytics and no extra hardware, a strong fit for Vision 2030 transport tenders. It is built on Google's RMI layer by India's oldest and largest Google Maps partner, one of only two companies in the world on that layer, and proven in Abu Dhabi. We sit as the data enrichment layer beneath your ITCC and ANPR, not as a competitor.
+
+Would a short call be worth it? I am happy to send the live demo first.
+
+Warm regards,
+Umang Saraf
+Director, Lepton Software"
 Karim Rizkallah,karim.rizkallah@transcore.com,TransCore Middle East,The network layer above your intersection systems,"Dear Karim,
 
 I am reaching out from Lepton Software, India's oldest and largest Google Maps partner. We build TrafficCure, a city-wide road traffic intelligence product built directly on Google's Road Management Insights layer. We are one of only two companies globally on this layer, and Google hosts our live demo on their own RMI website.
@@ -219,7 +379,17 @@ Would you be open to a short call to explore it?
 
 Warm regards,
 Umang Saraf
-Director, Lepton Software",,,
+Director, Lepton Software",,,,Re: The network layer above your intersection systems,"Dear Karim,
+
+I wanted to follow up on my earlier note about the network layer above your intersection systems.
+
+TransCore's strength at the signal level is deep, from Dubai's Salik to traffic control across 350 of Riyadh's busiest intersections. What sits above it is the city-wide, network-level picture, and TrafficCure covers up to 50,000 road links per city with no additional hardware, built on Google's RMI layer by India's oldest and largest Google Maps partner. We are one of only two companies in the world on that layer. You own the intersection and signal layer, we own the network-wide intelligence on top, a complete story for an authority buying both.
+
+Would you be open to a short call to explore it? I can send the live demo first.
+
+Warm regards,
+Umang Saraf
+Director, Lepton Software"
 Tareq Abu Fadda,tareq.fadda@transcore.com,TransCore Middle East,Network-wide road analytics alongside your TransCore systems,"Dear Tareq,
 
 I am reaching out from Lepton Software, India's oldest and largest Google Maps partner. We build TrafficCure, a city-wide road traffic intelligence product built directly on Google's Road Management Insights layer in BigQuery. We are one of only two companies globally on this layer, and Google hosts our live demo on their own RMI website.
@@ -232,7 +402,17 @@ Would you be open to a short call to explore it?
 
 Warm regards,
 Umang Saraf
-Director, Lepton Software",,,
+Director, Lepton Software",,,,Re: Network-wide road analytics alongside your TransCore systems,"Dear Tareq,
+
+A short follow-up to my earlier note about network-wide road analytics alongside your TransCore systems.
+
+On the engineering side, the fit is clean. TrafficCure provides city-wide, network-level road analytics, up to 50,000 links per city, delivered as a roughly two minute Pub/Sub stream with a 10 year BigQuery history, and no additional hardware. It is built natively on Google's RMI layer by India's oldest and largest Google Maps partner, one of only two companies in the world on that layer. You own the intersection and tolling layer, we own the network-wide intelligence on top.
+
+Would a short call be worth your time? I am happy to share the live demo on Google's RMI site.
+
+Warm regards,
+Umang Saraf
+Director, Lepton Software"
 Andreas Woerner,andreas.woerner@swarco.com,SWARCO Saudia,An analytics backbone for your KSA ITS projects,"Dear Andreas,
 
 I am reaching out from Lepton Software, India's oldest and largest Google Maps partner. We build TrafficCure, a city-wide road traffic intelligence product built directly on Google's Road Management Insights layer. We are one of only two companies globally on this layer, and Google hosts our live demo on their own RMI website.
@@ -245,7 +425,17 @@ Would you be open to a short call to explore it?
 
 Warm regards,
 Umang Saraf
-Director, Lepton Software",,,
+Director, Lepton Software",,,,Re: An analytics backbone for your KSA ITS projects,"Dear Andreas,
+
+I am following up on my earlier note about an analytics backbone for your KSA ITS projects.
+
+SWARCO's track record in Saudi Arabia across road marking, signals and ITS hardware gives you the physical layer and strong government relationships. TrafficCure adds the city-wide data picture on top, 100 percent road-segment coverage with no further installation, built on Google's RMI layer by India's oldest and largest Google Maps partner, one of only two companies in the world on that layer. You bring the hardware, installation record and access, we provide the analytics backbone, a natural pairing for Vision 2030 transport tenders.
+
+Would you be open to a short call to explore it? I can send the live demo first.
+
+Warm regards,
+Umang Saraf
+Director, Lepton Software"
 Ali Nisar,ali.nisar@gmail.com,Traffic Digital,Pairing your Google Maps work with live RMI traffic data,"Dear Ali,
 
 I am reaching out from Lepton Software, India's oldest and largest Google Maps partner. We build TrafficCure, a city-wide road traffic intelligence product built directly on Google's Road Management Insights layer. We are one of only two companies globally on this layer, and Google hosts our live demo on their own RMI website.
@@ -258,7 +448,17 @@ Would you be open to a short call to explore it?
 
 Warm regards,
 Umang Saraf
-Director, Lepton Software",,,
+Director, Lepton Software",,,,Re: Pairing your Google Maps work with live RMI traffic data,"Dear Ali,
+
+I wanted to follow up on my earlier note about pairing your Google Maps work with live RMI traffic data.
+
+As an official Google Maps Partner across the UAE and Saudi Arabia, you have the mapping credentials and the client base. What pairs naturally with that is a government-grade traffic intelligence product, and since we share the Google Maps ecosystem the technical fit is immediate. Lepton is India's oldest and largest Google Maps partner, and TrafficCure is one of only two products in the world on Google's RMI layer. We could co-pitch to municipalities, your mapping implementation with our live network-wide data.
+
+Would a short call be worth it? I am also glad to share the live demo on Google's RMI site.
+
+Warm regards,
+Umang Saraf
+Director, Lepton Software"
 Mohammed El-Kadi,mek@dsi.co.ae,Space Imaging Middle East (SIME),Adding live traffic context to your spatial analytics,"Dear Mohammed,
 
 I am reaching out from Lepton Software, India's oldest and largest Google Maps partner. We build TrafficCure, a city-wide road traffic intelligence product built directly on Google's Road Management Insights layer. We are one of only two companies globally on this layer, and Google hosts our live demo on their own RMI website.
@@ -271,7 +471,17 @@ Would you be open to a short call to explore it?
 
 Warm regards,
 Umang Saraf
-Director, Lepton Software",,,
+Director, Lepton Software",,,,Re: Adding live traffic context to your spatial analytics,"Dear Mohammed,
+
+A short follow-up to my earlier note about adding live traffic context to your spatial analytics.
+
+SIME brings decades of satellite imagery, photogrammetry and vehicle tracking to a regional government client base. The one piece your stack does not yet include is live, network-level road traffic intelligence, which is a natural enrichment layer rather than a competing product. TrafficCure is built on Google's RMI layer by India's oldest and largest Google Maps partner, one of only two companies in the world on that layer, and proven in Abu Dhabi inside a unified dashboard. It is a clean upsell to the government clients you already serve.
+
+Would you be open to a short call to explore it? I can send the live demo first.
+
+Warm regards,
+Umang Saraf
+Director, Lepton Software"
 Spandan Kar,spandan@ignesa.com,IGNESA (ex-SIME),A traffic data product for IGNESA's GIS work,"Dear Spandan,
 
 I am reaching out from Lepton Software, India's oldest and largest Google Maps partner. We build TrafficCure, a city-wide road traffic intelligence product built directly on Google's Road Management Insights layer. We are one of only two companies globally on this layer, and Google hosts our live demo on their own RMI website.
@@ -284,7 +494,17 @@ Would you be open to a short call to explore it?
 
 Warm regards,
 Umang Saraf
-Director, Lepton Software",,,
+Director, Lepton Software",,,,Re: A traffic data product for IGNESA's GIS work,"Dear Spandan,
+
+I wanted to follow up on my earlier note about a traffic data product for IGNESA's GIS work.
+
+Having founded IGNESA after leading GIS at Space Imaging, you know the regional geospatial market deeply. The piece that complements a GIS consultancy is a ready-made traffic intelligence data product, which is exactly what TrafficCure provides, built on Google's RMI layer by India's oldest and largest Google Maps partner. We are one of only two companies in the world on that layer. IGNESA consults and delivers, and TrafficCure is the traffic data layer you bring to government and smart city clients. No channel overlap, fully complementary.
+
+Would a short call be worth it? I am happy to send the live demo first.
+
+Warm regards,
+Umang Saraf
+Director, Lepton Software"
 Hasan Al Hosani,hasan.alhosani@space42.ai,Bayanat (Space42),Mobility analytics for your smart city bids,"Dear Hasan,
 
 I am reaching out from Lepton Software, India's oldest and largest Google Maps partner. We build TrafficCure, a city-wide road traffic intelligence product built directly on Google's Road Management Insights layer. We are one of only two companies globally on this layer, and Google hosts our live demo on their own RMI website.
@@ -297,7 +517,17 @@ Would you be open to a short call to explore it?
 
 Warm regards,
 Umang Saraf
-Director, Lepton Software",,,
+Director, Lepton Software",,,,Re: Mobility analytics for your smart city bids,"Dear Hasan,
+
+A short follow-up to my earlier note about mobility analytics for your smart city bids.
+
+Bayanat and Space42 bring satellite remote sensing, spatial data and AI-powered geospatial analysis to public sector clients across the UAE. The one mobility piece that complements that, without overlapping it, is a road traffic intelligence product. TrafficCure is built on Google's RMI layer by India's oldest and largest Google Maps partner, one of only two companies in the world on that layer. You handle the imagery and spatial AI, we handle the mobility analytics, a compelling combined proposition for Abu Dhabi and Dubai smart city procurement.
+
+Would you be open to a short call to explore it? I can send the live demo on Google's RMI site.
+
+Warm regards,
+Umang Saraf
+Director, Lepton Software"
 Abdulla Al Shamsi,abdulla.alshamsi@adsb.ae,Bayanat (Space42),Mobility analytics for the Space42 portfolio,"Dear Abdulla,
 
 I am reaching out from Lepton Software, India's oldest and largest Google Maps partner. We build TrafficCure, a city-wide road traffic intelligence product built directly on Google's Road Management Insights layer. We are one of only two companies globally on this layer, and Google hosts our live demo on their own RMI website.
@@ -310,7 +540,17 @@ Would you be open to a short call to explore it?
 
 Warm regards,
 Umang Saraf
-Director, Lepton Software",,,
+Director, Lepton Software",,,,Re: Mobility analytics for the Space42 portfolio,"Dear Abdulla,
+
+I am following up on my earlier note about mobility analytics for the Space42 portfolio.
+
+Overseeing the business support behind a geospatial AI portfolio for public sector clients, you will see where this fits. The one mobility piece that complements satellite and spatial AI, without overlapping it, is a road traffic intelligence product. TrafficCure is built on Google's RMI layer by India's oldest and largest Google Maps partner, one of only two companies in the world on that layer. Your team handles the imagery and spatial AI, we handle the mobility analytics, a strong combined bid for Abu Dhabi and Dubai smart city procurement.
+
+Would a short call be worth it? I am glad to send the live demo first.
+
+Warm regards,
+Umang Saraf
+Director, Lepton Software"
 Mohammed Issa,mohammed.issa@gistec.com,GISTEC,Adding live RMI traffic analytics to your ArcGIS deployments,"Dear Mohammed,
 
 I am reaching out from Lepton Software, India's oldest and largest Google Maps partner. We build TrafficCure, a city-wide road traffic intelligence product built directly on Google's Road Management Insights layer. We are one of only two companies globally on this layer, and Google hosts our live demo on their own RMI website.
@@ -323,7 +563,17 @@ Would you be open to a short call to explore it?
 
 Warm regards,
 Umang Saraf
-Director, Lepton Software",,,
+Director, Lepton Software",,,,Re: Adding live RMI traffic analytics to your ArcGIS deployments,"Dear Mohammed,
+
+I wanted to follow up on my earlier note about adding live RMI traffic analytics to your ArcGIS deployments.
+
+GISTEC is deeply embedded with transport authorities, from the Abu Dhabi DOT enterprise GIS deployment to your work with Abu Dhabi Police. Since Esri integrated Google Maps Platform 3D tiles, there is a natural bridge to add live RMI traffic analytics on top of your existing ArcGIS workflows. TrafficCure is built by India's oldest and largest Google Maps partner, one of only two companies in the world on Google's RMI layer, and proven in Abu Dhabi inside a unified dashboard. You keep the ArcGIS relationship and delivery, we add the live network-wide traffic intelligence.
+
+Would you be open to a short call to explore it? I can send the live demo first.
+
+Warm regards,
+Umang Saraf
+Director, Lepton Software"
 Kiran Kumar,kiran.kumar@gistec.com,GISTEC,A traffic data layer for your GISTEC partnerships,"Dear Kiran,
 
 I am reaching out from Lepton Software, India's oldest and largest Google Maps partner. We build TrafficCure, a city-wide road traffic intelligence product built directly on Google's Road Management Insights layer. We are one of only two companies globally on this layer, and Google hosts our live demo on their own RMI website.
@@ -336,7 +586,17 @@ Would you be open to a short call to explore it?
 
 Warm regards,
 Umang Saraf
-Director, Lepton Software",,,
+Director, Lepton Software",,,,Re: A traffic data layer for your GISTEC partnerships,"Dear Kiran,
+
+A short follow-up to my earlier note about a traffic data layer for your GISTEC partnerships.
+
+As business development director, you are well placed to see where a traffic intelligence layer fits into GISTEC's government and enterprise relationships. Since Esri integrated Google Maps Platform 3D tiles, there is a natural bridge to add live RMI traffic analytics on top of your ArcGIS deployments. TrafficCure is built by India's oldest and largest Google Maps partner, one of only two companies in the world on Google's RMI layer, and proven in Abu Dhabi. You keep the ArcGIS relationship and delivery, we add the live network-wide intelligence.
+
+Would a short call be worth it? I am happy to share the live demo first.
+
+Warm regards,
+Umang Saraf
+Director, Lepton Software"
 Muneer Qudaisat,muneer.qudaisat@gistec.com,GISTEC,Live traffic analytics for your GISTEC projects,"Dear Muneer,
 
 I am reaching out from Lepton Software, India's oldest and largest Google Maps partner. We build TrafficCure, a city-wide road traffic intelligence product built directly on Google's Road Management Insights layer. We are one of only two companies globally on this layer, and Google hosts our live demo on their own RMI website.
@@ -349,4 +609,14 @@ Would you be open to a short call to explore it?
 
 Warm regards,
 Umang Saraf
-Director, Lepton Software",,,
+Director, Lepton Software",,,,Re: Live traffic analytics for your GISTEC projects,"Dear Muneer,
+
+I am following up on my earlier note about live traffic analytics for your GISTEC projects.
+
+Across projects, business development and contracts, you sit close to the transport authority deployments where TrafficCure adds value. It is a clean data-layer upgrade, adding live RMI traffic analytics on top of your existing ArcGIS workflows with no hardware. It is built by India's oldest and largest Google Maps partner, one of only two companies in the world on Google's RMI layer, and proven in Abu Dhabi. You keep the ArcGIS relationship and delivery, we add the live network-wide intelligence.
+
+Would you be open to a short call to explore it? I can send the live demo on Google's RMI site.
+
+Warm regards,
+Umang Saraf
+Director, Lepton Software"
